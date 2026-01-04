@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Category,Sub_Category,Region,Sales,Profit,Quantity
+CA-001,2023-01-05,Furniture,Chairs,East,250.50,45.30,2
+CA-002,2023-01-08,Technology,Phones,West,899.99,120.50,3
+CA-003,2023-01-10,Office Supplies,Binders,South,45.20,-5.40,5
+CA-004,2023-01-12,Technology,Laptops,Central,1299.00,250.00,2
+CA-005,2023-01-15,Furniture,Tables,East,450.75,-30.20,1
+CA-006,2023-01-18,Office Supplies,Paper,West,60.00,10.50,10
+CA-007,2023-01-20,Technology,Accessories,South,150.00,25.00,4
+CA-008,2023-01-22,Furniture,Bookcases,Central,700.00,80.00,2
+CA-009,2023-01-25,Office Supplies,Storage,East,120.00,15.00,3
+CA-010,2023-01-28,Technology,Phones,West,999.00,140.00,2
+CA-011,2023-02-01,Furniture,Chairs,South,300.00,50.00,3
+CA-012,2023-02-03,Office Supplies,Art,Central,75.00,12.00,6
+CA-013,2023-02-05,Technology,Laptops,East,1400.00,300.00,1
+CA-014,2023-02-07,Furniture,Tables,West,500.00,-45.00,1
+CA-015,2023-02-10,Office Supplies,Binders,South,55.00,8.00,4
